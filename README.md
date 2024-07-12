@@ -23,7 +23,7 @@ pip install tokenmeter
 Here are some basic usage examples:
 
 ```python
-from tokenmeter import TokenMeter, calculate_cost, estimate_cost, get_model_info, use_openai
+from tokenmeter import TokenMeter, calculate_cost, estimate_cost, get_model_info
 
 # Initialize TokenMeter
 tm = TokenMeter()
