@@ -1,9 +1,0 @@
-requests
-tiktoken
-openai
-
-[dev]
-pytest
-black
-isort
-flake8
