@@ -7,7 +7,6 @@ TokenMeter is a Python library for calculating and estimating costs associated w
 - Calculate costs for language model usage based on input and output tokens
 - Estimate costs before making API calls
 - Retrieve model information including pricing and token limits
-- Integrated OpenAI API handler for easy response generation
 - Utility functions for token counting, text truncation, and text splitting
 
 ## Installation
